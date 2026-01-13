@@ -1,0 +1,25 @@
+.card{
+    display: inline-block;
+    margin-right: 50px;
+    text-align: center;
+    border: 2px solid;
+    padding: 10px;
+    background-color: rgb(35, 35, 159);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.h1{
+    color: white;
+}
+
+.Score{
+    color:red;
+    font-size: 2em;
+    border: 2px solid;
+    border-color: black;
+    margin-bottom: 20px;
+}
